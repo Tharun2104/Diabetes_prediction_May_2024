@@ -1,2 +1,1 @@
 # Diabetes_prediction_May_2024
-# Diabetes_prediction_May_2024
