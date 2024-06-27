@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+ipython
+jupyter
+matplotlib
+mlflow
+pandas
+requests
+seaborn
+streamlit
+ydata-profiling
+=======
+requests
+streamlit
+>>>>>>> db843c64b61673cb347bf1fba9f8faeb5a476fbd
