@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/118091024163560819/69ee0df4866c42208d419be622a2e247/artifacts
+end_time: 1718024794258
+entry_point_name: ''
+experiment_id: '118091024163560819'
+lifecycle_stage: active
+run_id: 69ee0df4866c42208d419be622a2e247
+run_name: skittish-wren-611
+run_uuid: 69ee0df4866c42208d419be622a2e247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718024781686
+status: 3
+tags: []
+user_id: tharu

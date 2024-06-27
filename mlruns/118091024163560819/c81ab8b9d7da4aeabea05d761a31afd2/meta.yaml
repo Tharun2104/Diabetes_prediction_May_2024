@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/118091024163560819/c81ab8b9d7da4aeabea05d761a31afd2/artifacts
+deleted_time: 1718024810680
+end_time: 1718024765883
+entry_point_name: ''
+experiment_id: '118091024163560819'
+lifecycle_stage: deleted
+run_id: c81ab8b9d7da4aeabea05d761a31afd2
+run_name: bittersweet-lark-63
+run_uuid: c81ab8b9d7da4aeabea05d761a31afd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718024765675
+status: 4
+tags: []
+user_id: tharu

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/118091024163560819/59ac4fa28526468eae582ab2f40eaf29/artifacts
+deleted_time: 1718024810662
+end_time: 1718024774882
+entry_point_name: ''
+experiment_id: '118091024163560819'
+lifecycle_stage: deleted
+run_id: 59ac4fa28526468eae582ab2f40eaf29
+run_name: thundering-fly-627
+run_uuid: 59ac4fa28526468eae582ab2f40eaf29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718024774616
+status: 4
+tags: []
+user_id: tharu
